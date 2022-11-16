@@ -1,6 +1,6 @@
 # 105-Unit-3
 
-This is a repository containing instructions and sample datasets for Prof. Gotzler's Fall 2022 sections of ENGL-105 at the University of Carolina, Chapel Hill
+This is a repository containing instructions and examples of how to use code to navigate a data set
 
 ### The repository contains:
 
