@@ -1,18 +1,17 @@
 # 105-Unit-3
 
-This is a repository containing instructional materials and sample datasets for Prof. Gotzler's Fall 2022 sections of ENGL-105 at the University of Carolina, Chapel Hill
+This is a repository containing instructions and sample datasets for Prof. Gotzler's Fall 2022 sections of ENGL-105 at the University of Carolina, Chapel Hill
 
 ### The repository contains:
 
 1. The County Public Health Data as a .csv file 
-
-2. Two python notebooks covering basic topics in coding with Python 3 and beginner modules on using the Pandas package for data analysis
   
-3. One python notebook that is a step by step guide on how to use code to focus on certain parts of the data set
+3. A python notebook that is a step by step guide on how to use code to focus on certain parts of the data set
     
-4. One .cvs file that is a subset of the County Public Health data
+4. A .cvs file that is a subset of the County Public Health data
 
-The materials have been adapted from the lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC's Davis Library
+5. A chart that visualizes the subset data
+
 
 The data comes from the County Public Health Data
 
