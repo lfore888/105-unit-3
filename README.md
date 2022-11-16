@@ -10,12 +10,14 @@ The repository contains:
     
 3. One .cvs file that is a subset of the County Public Health data
 
-The materials have been adapted from the lessons created by the staff at the Research Hub of UNC's Davis Library
+The materials have been adapted from the lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC's Davis Library
 
 The data comes from the County Public Health Data
 
 
 The respository can be used to:
   • Instruct individuals on how to use code to navigate a large data set
+  
   • Instruct individuals on how to use code to identify the components of a data set
+  
   • Instruct students or researchers on how to use code to answer research questions from those data sets
