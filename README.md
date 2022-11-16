@@ -3,9 +3,12 @@
 This is a repository containing instructional materials and sample datasets for Prof. Gotzler's Fall 2022 sections of ENGL-105 at the University of Carolina, Chapel Hill
 
 The repository contains:
+
   • 2 python notebooks covering basic topics in coding with Python 3 and beginner modules on using the Pandas package for data analysis
-  • 1 python notebook that is a step by step guide on how to use code to focus on certain parts of the data set
-  • 1 .cvs file that is a subset of the County Public Health data
+  
+1 python notebook that is a step by step guide on how to use code to focus on certain parts of the data set
+    
+1 .cvs file that is a subset of the County Public Health data
 
 The materials have been adapted from the lessons created by the staff at the Research Hub of UNC's Davis Library
 
