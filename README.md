@@ -4,11 +4,13 @@ This is a repository containing instructional materials and sample datasets for 
 
 ### The repository contains:
 
-1. Two python notebooks covering basic topics in coding with Python 3 and beginner modules on using the Pandas package for data analysis
+1. The County Public Health Data as a .csv file 
+
+2. Two python notebooks covering basic topics in coding with Python 3 and beginner modules on using the Pandas package for data analysis
   
-2. One python notebook that is a step by step guide on how to use code to focus on certain parts of the data set
+3. One python notebook that is a step by step guide on how to use code to focus on certain parts of the data set
     
-3. One .cvs file that is a subset of the County Public Health data
+4. One .cvs file that is a subset of the County Public Health data
 
 The materials have been adapted from the lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC's Davis Library
 
