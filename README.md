@@ -10,7 +10,7 @@ This is a repository containing instructions and examples of how to use code to 
     
 4. A .cvs file that is a subset of the County Public Health data
 
-5. A chart that visualizes the subset data
+5. three charts that visualize the subset data
 
 
 The data comes from the County Public Health Data
@@ -22,3 +22,5 @@ The data comes from the County Public Health Data
 2. Instruct individuals on how to use code to identify the components of a data set
   
 3. Instruct students or researchers on how to use code to answer research questions from those data sets
+
+4. Show correlations or trends in data
