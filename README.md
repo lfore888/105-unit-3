@@ -1,6 +1,6 @@
 # Health Data Anylasis Using Code
 
-This is a repository containing instructions and examples of how to use code to navigate a data set
+This is a repository containing instructions and examples of how to use code to navigate the County Public Health data set for data anaylsis
 
 ### The repository contains:
 
