@@ -29,7 +29,7 @@ The data comes from the County Public Health Data
 
 ![children in poverty by region](https://user-images.githubusercontent.com/118320733/203082106-7064f468-4226-4c1a-819f-0713c1a71c31.png)
 
-This chart visualizes the data for children in poverty by region. It can be used to determine which regions have the most children in poverty.
+This chart visualizes the data for children in poverty by region. From the data collected, it shows that Southern regions have the most children in poverty compared to others in the U.S.
 
 ![drinking](https://user-images.githubusercontent.com/118320733/203082136-f2710a50-e8f3-4125-b049-71632afc8ca3.png)
 This chart shows a positive trend of excessive drinking in correlation to alchohol-impaired driving deaths.It shows that from all areas where data was collected from the U.S, the places with higher rates in excessive drinking also have higher rates in alcohol impared related deaths.
