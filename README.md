@@ -25,7 +25,8 @@ The data comes from the County Public Health Data
 
 4. Show correlations or trends in data
 
-###Visualizations
+### Visualizations
+
 ![children in poverty by region](https://user-images.githubusercontent.com/118320733/203082106-7064f468-4226-4c1a-819f-0713c1a71c31.png)
 This chart visualizes the data for children in poverty by region. It can be used to determine which regions have the most children in poverty.
 
