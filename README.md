@@ -32,7 +32,7 @@ The data comes from the County Public Health Data
 This chart visualizes the data for children in poverty by region. It can be used to determine which regions have the most children in poverty.
 
 ![drinking](https://user-images.githubusercontent.com/118320733/203082136-f2710a50-e8f3-4125-b049-71632afc8ca3.png)
-This chart shows a positive trend of excessive drinking in correlation to alchohol-impaired driving deaths.
+This chart shows a positive trend of excessive drinking in correlation to alchohol-impaired driving deaths.It shows that from all areas where data was collected from the U.S, the places with higher rates in excessive drinking also have higher rates in alcohol impared related deaths.
 
 ![ym23k-](https://user-images.githubusercontent.com/118320733/203082146-dbf3bda9-c93b-4391-b8c7-5c7b868c2895.png)
-This chart shows a negative trend of access to excersice opportunities to adult obesity
+This chart shows a negative trend of access to excersize opportunities to adult obesity. From all the data from the Public Health data, areas with more excersize opportunities had lower rates in adult obesity.
